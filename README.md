@@ -8,3 +8,7 @@ In 2019, more than 365 students from over 50 countries and 80 schools proposed n
 The Challenge identifies, empowers, and inspires the next generation of sustainable finance practitioners and connects them with leading industry professionals.
 
 This year, I formed a team with fellow graduate classmates from two different universities to tackle the challenge of plastic waste. Combining our expertise and skills, we will be developing a creative financial approach that seeks to change how indonesia manages its plastic waste.
+
+# Media
+
+<iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
